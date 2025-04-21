@@ -1,6 +1,8 @@
 ## 🎨 Arduino-Processing Ellipse Drawing
 This project combines an Arduino and Processing to create red colord ellipse. A physical push button connected to the Arduino triggers randomly placed red ellipses to appear on the screen using Processing.
 
+##### Demo: https://youtu.be/6leo86O7CVI
+
 #### Features
 - Uses a physical push button to control visual output
 - Lights up the Arduino's onboard LED when the button is pressed for feedback
@@ -23,8 +25,6 @@ Processing reads the serial data using the Serial library and reacts by drawing 
 - USB cable
 
 Note: Make sure the serial port number in Serial.list()[X] matches your Arduino's port
-Demo: https://youtu.be/6leo86O7CVI
-
 ![button_red_led](https://github.com/user-attachments/assets/0fa59dc8-91b2-430c-9abe-a9aad0b72250)
 
 
