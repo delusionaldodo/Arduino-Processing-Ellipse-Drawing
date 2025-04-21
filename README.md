@@ -24,7 +24,10 @@ Processing reads the serial data using the Serial library and reacts by drawing 
 - Jumper wires + breadboard
 - USB cable
 
-Note: Make sure the serial port number in Serial.list()[X] matches your Arduino's port
+Note: Make sure the serial port number in Processing Serial.list()[X] matches your Arduino's port
+
+
+
 ![button_red_led](https://github.com/user-attachments/assets/0fa59dc8-91b2-430c-9abe-a9aad0b72250)
 
 
